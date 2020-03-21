@@ -6,6 +6,8 @@
 
 + The virtual reality platform was developed to enable life-like construction operation experience such as one-handed manipulation of small objects (e.g., bricks, cables, and ID card) and two-handed manipulation of objects with big volume (e.g., cardboard).
 
++ This project is licensed under the terms of the MIT license.
+
 ![](https://raw.githubusercontent.com/twoyearslateravocadocodes/virtual-reality-construction/master/image.png)
 
-+ This project is licensed under the terms of the MIT license.
+
