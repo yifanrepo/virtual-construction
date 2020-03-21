@@ -1,0 +1,181 @@
+fileFormatVersion: 2
+guid: 60c3601e97414fd40bb205fecbc958fb
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Axe_uv_zbrexp_Group1
+    100004: Axe_uv_zbrexp_Group2
+    100006: Axe_uv_zbrexp_Group3
+    100008: Axe_uv_zbrexp_Group4
+    100010: Axe_uv_zbrexp_Group5
+    100012: Axe_uv_zbrexp_Group6
+    100014: Axe_uv_zbrexp_Group7
+    100016: Axe_uv_zbrexp_Group8
+    100018: Axe_uv_zbrexp_Group9
+    400000: //RootNode
+    400002: Axe_uv_zbrexp_Group1
+    400004: Axe_uv_zbrexp_Group2
+    400006: Axe_uv_zbrexp_Group3
+    400008: Axe_uv_zbrexp_Group4
+    400010: Axe_uv_zbrexp_Group5
+    400012: Axe_uv_zbrexp_Group6
+    400014: Axe_uv_zbrexp_Group7
+    400016: Axe_uv_zbrexp_Group8
+    400018: Axe_uv_zbrexp_Group9
+    2300000: Axe_uv_zbrexp_Group1
+    2300002: Axe_uv_zbrexp_Group2
+    2300004: Axe_uv_zbrexp_Group3
+    2300006: Axe_uv_zbrexp_Group4
+    2300008: Axe_uv_zbrexp_Group5
+    2300010: Axe_uv_zbrexp_Group6
+    2300012: Axe_uv_zbrexp_Group7
+    2300014: Axe_uv_zbrexp_Group8
+    2300016: Axe_uv_zbrexp_Group9
+    3300000: Axe_uv_zbrexp_Group1
+    3300002: Axe_uv_zbrexp_Group2
+    3300004: Axe_uv_zbrexp_Group3
+    3300006: Axe_uv_zbrexp_Group4
+    3300008: Axe_uv_zbrexp_Group5
+    3300010: Axe_uv_zbrexp_Group6
+    3300012: Axe_uv_zbrexp_Group7
+    3300014: Axe_uv_zbrexp_Group8
+    3300016: Axe_uv_zbrexp_Group9
+    4300000: Axe_uv_zbrexp_Group1
+    4300002: Axe_uv_zbrexp_Group2
+    4300004: Axe_uv_zbrexp_Group3
+    4300006: Axe_uv_zbrexp_Group4
+    4300008: Axe_uv_zbrexp_Group5
+    4300010: Axe_uv_zbrexp_Group6
+    4300012: Axe_uv_zbrexp_Group7
+    4300014: Axe_uv_zbrexp_Group8
+    4300016: Axe_uv_zbrexp_Group9
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Axe_uv_zbrexp_Group1Mat
+    second: {fileID: 2100000, guid: 863cabd5c1ecb234bb2119aeff4a1e09, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Axe_uv_zbrexp_Group2Mat
+    second: {fileID: 2100000, guid: 8eaf8d0d17c044f409e3f03b9855a0f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Axe_uv_zbrexp_Group3Mat
+    second: {fileID: 2100000, guid: 858ede4c53d94b14880931fbf384b732, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Axe_uv_zbrexp_Group4Mat
+    second: {fileID: 2100000, guid: 87815429700ab4b428860643485c5100, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Axe_uv_zbrexp_Group5Mat
+    second: {fileID: 2100000, guid: ae0c6b6681a956e4d8cf9fa1aff79cf5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Axe_uv_zbrexp_Group6Mat
+    second: {fileID: 2100000, guid: 9d66f2f750805a44e8ded99cd417d08a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Axe_uv_zbrexp_Group7Mat
+    second: {fileID: 2100000, guid: b645f3fa916864b4a94a14510c667ad4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Axe_uv_zbrexp_Group8Mat
+    second: {fileID: 2100000, guid: fe568f3b98aa0c64dab8a64e7f35b3d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Axe_uv_zbrexp_Group9Mat
+    second: {fileID: 2100000, guid: 75365bcf1e5295c4da9ff98acd8db6d4, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

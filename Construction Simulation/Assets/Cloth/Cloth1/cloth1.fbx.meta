@@ -1,0 +1,219 @@
+fileFormatVersion: 2
+guid: e68f7605defa04548ac98868caa88954
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: ___38_1
+    100002: //RootNode
+    100004: Mesh1
+    100006: Mesh2
+    100008: Plane31__30___50___68_
+    400000: ___38_1
+    400002: //RootNode
+    400004: Mesh1
+    400006: Mesh2
+    400008: Plane31__30___50___68_
+    2300000: Mesh1
+    2300002: Mesh2
+    3300000: Mesh1
+    3300002: Mesh2
+    4300000: Mesh1
+    4300002: Mesh2
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FrontColor
+    second: {fileID: 2100000, guid: 91923f295494dd14096225962363896b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _clothes__0132____
+    second: {fileID: 2100000, guid: 2cbe1110fe0dc3a46aeeb8ac858ff0cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _clothes__Material__16
+    second: {fileID: 2100000, guid: 84b8794b55d79234093499ccf7e7e0bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _clothes__Material__16_1
+    second: {fileID: 2100000, guid: a1f23d2ac2206dd49a7c09a4af672d4c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _clothes__Material__16_10
+    second: {fileID: 2100000, guid: f108b81fee210014b94bbe6e80f9f9f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _clothes__Material__16_11
+    second: {fileID: 2100000, guid: 1d925884c59c3044493aaf22509cf596, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _clothes__Material__16_12
+    second: {fileID: 2100000, guid: 4e9c0d7512dc55347aade1b1d4d2bce5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _clothes__Material__16_2
+    second: {fileID: 2100000, guid: 056a1a860519c6f459a5a8ed81dd4914, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _clothes__Material__16_3
+    second: {fileID: 2100000, guid: d447fd468ccae6445978b1e0422227a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _clothes__Material__16_4
+    second: {fileID: 2100000, guid: 60165ef3948e3d34ebbed6a89a8e8cf1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _clothes__Material__16_5
+    second: {fileID: 2100000, guid: e4e14254a4c74be489e163f72fc1ef6c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _clothes__Material__16_6
+    second: {fileID: 2100000, guid: e3d1e527f767dde4090b0154d502df38, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _clothes__Material__16_7
+    second: {fileID: 2100000, guid: df9b086a04474e04da980852c0c734ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _clothes__Material__16_8
+    second: {fileID: 2100000, guid: 9197bf9646ecc0242814c583c7a9a936, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _clothes__Material__16_9
+    second: {fileID: 2100000, guid: c9f0a5870662a3d43956cf8484bb5607, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _clothes__black_BUMERANG
+    second: {fileID: 2100000, guid: 6385f5e758da3014ba96bd1de7b6a17e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _clothes__svetr_kos1
+    second: {fileID: 2100000, guid: 959e70ae590cecb449c49ee90e0f0823, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _clothes__svetr_kos1_1
+    second: {fileID: 2100000, guid: 045421d9e77904048aebcf8030c75dbb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _clothes__svetr_kos1_2
+    second: {fileID: 2100000, guid: 0a43403ed8c6a31489eb06d6a455ffdd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _clothes__svetr_kos1_3
+    second: {fileID: 2100000, guid: 153ce8ec35b8a9f44a98eac3977760fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _clothes__svetr_kos1_4
+    second: {fileID: 2100000, guid: 556e949fb2fe9cb47833b547821e524b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _clothes__svetr_kos1_5
+    second: {fileID: 2100000, guid: 368e4a6bb92b41c4cb28d0634b402a71, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _clothes__svetr_kos1_6
+    second: {fileID: 2100000, guid: bf27ea75490395b469b77452a2feba43, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 2
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

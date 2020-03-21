@@ -1,0 +1,238 @@
+fileFormatVersion: 2
+guid: 670158c034c57b946b76fcd66a4957b3
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: default
+    100002: default_MeshPart0
+    100004: default_MeshPart1
+    100006: default_MeshPart10
+    100008: default_MeshPart11
+    100010: default_MeshPart12
+    100012: default_MeshPart13
+    100014: default_MeshPart14
+    100016: default_MeshPart15
+    100018: default_MeshPart16
+    100020: default_MeshPart17
+    100022: default_MeshPart18
+    100024: default_MeshPart19
+    100026: default_MeshPart2
+    100028: default_MeshPart20
+    100030: default_MeshPart21
+    100032: default_MeshPart22
+    100034: default_MeshPart23
+    100036: default_MeshPart24
+    100038: default_MeshPart25
+    100040: default_MeshPart26
+    100042: default_MeshPart27
+    100044: default_MeshPart3
+    100046: default_MeshPart4
+    100048: default_MeshPart5
+    100050: default_MeshPart6
+    100052: default_MeshPart7
+    100054: default_MeshPart8
+    100056: default_MeshPart9
+    100058: //RootNode
+    400000: default
+    400002: default_MeshPart0
+    400004: default_MeshPart1
+    400006: default_MeshPart10
+    400008: default_MeshPart11
+    400010: default_MeshPart12
+    400012: default_MeshPart13
+    400014: default_MeshPart14
+    400016: default_MeshPart15
+    400018: default_MeshPart16
+    400020: default_MeshPart17
+    400022: default_MeshPart18
+    400024: default_MeshPart19
+    400026: default_MeshPart2
+    400028: default_MeshPart20
+    400030: default_MeshPart21
+    400032: default_MeshPart22
+    400034: default_MeshPart23
+    400036: default_MeshPart24
+    400038: default_MeshPart25
+    400040: default_MeshPart26
+    400042: default_MeshPart27
+    400044: default_MeshPart3
+    400046: default_MeshPart4
+    400048: default_MeshPart5
+    400050: default_MeshPart6
+    400052: default_MeshPart7
+    400054: default_MeshPart8
+    400056: default_MeshPart9
+    400058: //RootNode
+    2300000: default_MeshPart0
+    2300002: default_MeshPart1
+    2300004: default_MeshPart10
+    2300006: default_MeshPart11
+    2300008: default_MeshPart12
+    2300010: default_MeshPart13
+    2300012: default_MeshPart14
+    2300014: default_MeshPart15
+    2300016: default_MeshPart16
+    2300018: default_MeshPart17
+    2300020: default_MeshPart18
+    2300022: default_MeshPart19
+    2300024: default_MeshPart2
+    2300026: default_MeshPart20
+    2300028: default_MeshPart21
+    2300030: default_MeshPart22
+    2300032: default_MeshPart23
+    2300034: default_MeshPart24
+    2300036: default_MeshPart25
+    2300038: default_MeshPart26
+    2300040: default_MeshPart27
+    2300042: default_MeshPart3
+    2300044: default_MeshPart4
+    2300046: default_MeshPart5
+    2300048: default_MeshPart6
+    2300050: default_MeshPart7
+    2300052: default_MeshPart8
+    2300054: default_MeshPart9
+    3300000: default_MeshPart0
+    3300002: default_MeshPart1
+    3300004: default_MeshPart10
+    3300006: default_MeshPart11
+    3300008: default_MeshPart12
+    3300010: default_MeshPart13
+    3300012: default_MeshPart14
+    3300014: default_MeshPart15
+    3300016: default_MeshPart16
+    3300018: default_MeshPart17
+    3300020: default_MeshPart18
+    3300022: default_MeshPart19
+    3300024: default_MeshPart2
+    3300026: default_MeshPart20
+    3300028: default_MeshPart21
+    3300030: default_MeshPart22
+    3300032: default_MeshPart23
+    3300034: default_MeshPart24
+    3300036: default_MeshPart25
+    3300038: default_MeshPart26
+    3300040: default_MeshPart27
+    3300042: default_MeshPart3
+    3300044: default_MeshPart4
+    3300046: default_MeshPart5
+    3300048: default_MeshPart6
+    3300050: default_MeshPart7
+    3300052: default_MeshPart8
+    3300054: default_MeshPart9
+    4300000: default_MeshPart0
+    4300002: default_MeshPart1
+    4300004: default_MeshPart2
+    4300006: default_MeshPart3
+    4300008: default_MeshPart4
+    4300010: default_MeshPart5
+    4300012: default_MeshPart6
+    4300014: default_MeshPart7
+    4300016: default_MeshPart8
+    4300018: default_MeshPart9
+    4300020: default_MeshPart10
+    4300022: default_MeshPart11
+    4300024: default_MeshPart12
+    4300026: default_MeshPart13
+    4300028: default_MeshPart14
+    4300030: default_MeshPart15
+    4300032: default_MeshPart16
+    4300034: default_MeshPart17
+    4300036: default_MeshPart18
+    4300038: default_MeshPart19
+    4300040: default_MeshPart20
+    4300042: default_MeshPart21
+    4300044: default_MeshPart22
+    4300046: default_MeshPart23
+    4300048: default_MeshPart24
+    4300050: default_MeshPart25
+    4300052: default_MeshPart26
+    4300054: default_MeshPart27
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: model
+    second: {fileID: 2100000, guid: b599c771373fc604b9de61d3b64cc923, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 10
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

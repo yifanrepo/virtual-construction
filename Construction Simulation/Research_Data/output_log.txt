@@ -1,0 +1,33 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 530 (ID=0x1912)
+    Vendor:   Intel
+    VRAM:     1008 MB
+    Driver:   10.18.15.4279
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Unity_Core\Dempsey Wood\Dempsey Wood\Research_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Unity_Core\Dempsey Wood\Dempsey Wood\Research_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Unity_Core\Dempsey Wood\Dempsey Wood\Research_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\Unity_Core\Dempsey Wood\Dempsey Wood\Research_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Unity_Core\Dempsey Wood\Dempsey Wood\Research_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Unity_Core\Dempsey Wood\Dempsey Wood\Research_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Unity_Core\Dempsey Wood\Dempsey Wood\Research_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Unity_Core\Dempsey Wood\Dempsey Wood\Research_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Unity_Core\Dempsey Wood\Dempsey Wood\Research_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Unity_Core\Dempsey Wood\Dempsey Wood\Research_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Unity_Core\Dempsey Wood\Dempsey Wood\Research_Data\Managed\UnityEngine.VR.dll (this message is harmless)
+Loading D:\Unity_Core\Dempsey Wood\Dempsey Wood\Research_Data\Managed\UnityEngine.VR.dll into Unity Child Domain
+- Completed reload, in  0.018 seconds
+Platform assembly: D:\Unity_Core\Dempsey Wood\Dempsey Wood\Research_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Unity_Core\Dempsey Wood\Dempsey Wood\Research_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1200 59Hz; virtual: 1920x1200 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 4.603344 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 18f4 -> priority: 1 
+  Thread -> id: 3554 -> priority: 1 

@@ -1,0 +1,608 @@
+fileFormatVersion: 2
+guid: 3a7b68c32ef01eb4b92a52a758f9b0a7
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Boom
+    100002: Box021
+    100004: Cabin In
+    100006: Cabin In2
+    100008: Cabin_Out2
+    100010: Cabine Out
+    100012: //RootNode
+    100014: Cylinder004
+    100016: Engine Covers
+    100018: Engine Covers2
+    100020: Glass
+    100022: HP_Details1
+    100024: HP_Details2
+    100026: HP_wheel2
+    100028: Hydraulics spline1
+    100030: Hydraulics spline2
+    100032: Hydraulics003
+    100034: Hydraulics1
+    100036: Joystick
+    100038: Lower Frame004
+    100040: Lower Frame1
+    100042: Lower Frame2
+    100044: Object024
+    100046: Object025
+    100048: Object026
+    100050: Object031
+    100052: Object033
+    100054: Object034
+    100056: Object035
+    100058: Object036
+    100060: Object039
+    100062: Object040
+    100064: Object041
+    100066: Object042
+    100068: Object043
+    100070: Object044
+    100072: Object045
+    100074: Object046
+    100076: Object047
+    100078: Object049
+    100080: Object050
+    100082: Object051
+    100084: Object052
+    100086: Object053
+    100088: Object054
+    100090: Object055
+    100092: Object056
+    100094: Object057
+    100096: Object058
+    100098: Object059
+    100100: Object060
+    100102: Object061
+    100104: Object062
+    100106: Object063
+    100108: Object064
+    100110: Object065
+    100112: Object066
+    100114: Object067
+    100116: Object068
+    100118: Object069
+    100120: Object070
+    100122: Object071
+    100124: Object072
+    100126: Object073
+    100128: Object074
+    100130: Object075
+    100132: Object076
+    100134: Object077
+    100136: Object078
+    100138: Object079
+    100140: Object080
+    100142: Object081
+    100144: Object082
+    100146: Object083
+    100148: Object084
+    100150: Object085
+    100152: Object086
+    100154: Object087
+    100156: Object088
+    100158: Object089
+    100160: Object090
+    100162: Object091
+    100164: Object092
+    100166: Object093
+    100168: Object094
+    100170: Object095
+    100172: Object096
+    100174: Operator place
+    100176: Operator place3
+    100178: Plane005
+    100180: Plane006
+    100182: Screw of Cabin007
+    100184: Screw of Frame
+    100186: Screw of Frame2
+    100188: Screw of Mirror
+    100190: Screw of Wheel1
+    100192: Screw of Wheel2
+    100194: Screw of Wheel3
+    100196: Screw of Wheel4
+    100198: text
+    100200: Wheel1
+    100202: Wheel2
+    100204: Wheel3
+    100206: Wheel4
+    400000: Boom
+    400002: Box021
+    400004: Cabin In
+    400006: Cabin In2
+    400008: Cabin_Out2
+    400010: Cabine Out
+    400012: //RootNode
+    400014: Cylinder004
+    400016: Engine Covers
+    400018: Engine Covers2
+    400020: Glass
+    400022: HP_Details1
+    400024: HP_Details2
+    400026: HP_wheel2
+    400028: Hydraulics spline1
+    400030: Hydraulics spline2
+    400032: Hydraulics003
+    400034: Hydraulics1
+    400036: Joystick
+    400038: Lower Frame004
+    400040: Lower Frame1
+    400042: Lower Frame2
+    400044: Object024
+    400046: Object025
+    400048: Object026
+    400050: Object031
+    400052: Object033
+    400054: Object034
+    400056: Object035
+    400058: Object036
+    400060: Object039
+    400062: Object040
+    400064: Object041
+    400066: Object042
+    400068: Object043
+    400070: Object044
+    400072: Object045
+    400074: Object046
+    400076: Object047
+    400078: Object049
+    400080: Object050
+    400082: Object051
+    400084: Object052
+    400086: Object053
+    400088: Object054
+    400090: Object055
+    400092: Object056
+    400094: Object057
+    400096: Object058
+    400098: Object059
+    400100: Object060
+    400102: Object061
+    400104: Object062
+    400106: Object063
+    400108: Object064
+    400110: Object065
+    400112: Object066
+    400114: Object067
+    400116: Object068
+    400118: Object069
+    400120: Object070
+    400122: Object071
+    400124: Object072
+    400126: Object073
+    400128: Object074
+    400130: Object075
+    400132: Object076
+    400134: Object077
+    400136: Object078
+    400138: Object079
+    400140: Object080
+    400142: Object081
+    400144: Object082
+    400146: Object083
+    400148: Object084
+    400150: Object085
+    400152: Object086
+    400154: Object087
+    400156: Object088
+    400158: Object089
+    400160: Object090
+    400162: Object091
+    400164: Object092
+    400166: Object093
+    400168: Object094
+    400170: Object095
+    400172: Object096
+    400174: Operator place
+    400176: Operator place3
+    400178: Plane005
+    400180: Plane006
+    400182: Screw of Cabin007
+    400184: Screw of Frame
+    400186: Screw of Frame2
+    400188: Screw of Mirror
+    400190: Screw of Wheel1
+    400192: Screw of Wheel2
+    400194: Screw of Wheel3
+    400196: Screw of Wheel4
+    400198: text
+    400200: Wheel1
+    400202: Wheel2
+    400204: Wheel3
+    400206: Wheel4
+    2100000: text
+    2100002: yellowPaint
+    2100004: BlackPaint
+    2100006: brushedMetal
+    2100008: mattePlastic
+    2100010: leather
+    2100012: 09 - Default2
+    2100014: glass
+    2100016: SilverPaint
+    2100018: rubber
+    2100020: black
+    2100022: lights
+    2100024: mirror
+    2100026: chrome
+    2100028: redPlastic
+    2300000: Boom
+    2300002: Cabin In
+    2300004: Cabin In2
+    2300006: Cabin_Out2
+    2300008: Cabine Out
+    2300010: Engine Covers
+    2300012: Engine Covers2
+    2300014: Glass
+    2300016: HP_Details1
+    2300018: HP_Details2
+    2300020: HP_wheel2
+    2300022: Hydraulics spline1
+    2300024: Hydraulics spline2
+    2300026: Hydraulics003
+    2300028: Hydraulics1
+    2300030: Joystick
+    2300032: Lower Frame004
+    2300034: Lower Frame1
+    2300036: Lower Frame2
+    2300038: Object026
+    2300040: Object031
+    2300042: Object033
+    2300044: Object034
+    2300046: Object035
+    2300048: Object036
+    2300050: Object039
+    2300052: Object040
+    2300054: Object041
+    2300056: Object042
+    2300058: Object043
+    2300060: Object044
+    2300062: Object045
+    2300064: Object046
+    2300066: Object047
+    2300068: Object049
+    2300070: Object050
+    2300072: Object051
+    2300074: Object052
+    2300076: Object053
+    2300078: Object054
+    2300080: Object055
+    2300082: Object056
+    2300084: Object057
+    2300086: Object058
+    2300088: Object059
+    2300090: Object060
+    2300092: Object061
+    2300094: Object062
+    2300096: Object063
+    2300098: Object064
+    2300100: Object065
+    2300102: Object066
+    2300104: Object067
+    2300106: Object068
+    2300108: Object069
+    2300110: Object070
+    2300112: Object071
+    2300114: Object072
+    2300116: Object073
+    2300118: Object074
+    2300120: Object075
+    2300122: Object076
+    2300124: Object077
+    2300126: Object078
+    2300128: Object079
+    2300130: Object080
+    2300132: Object081
+    2300134: Object082
+    2300136: Object083
+    2300138: Object084
+    2300140: Object085
+    2300142: Object086
+    2300144: Object087
+    2300146: Object088
+    2300148: Object089
+    2300150: Object090
+    2300152: Object091
+    2300154: Object092
+    2300156: Object093
+    2300158: Object094
+    2300160: Object095
+    2300162: Object096
+    2300164: Operator place
+    2300166: Operator place3
+    2300168: Plane005
+    2300170: Plane006
+    2300172: Screw of Cabin007
+    2300174: Screw of Frame
+    2300176: Screw of Frame2
+    2300178: Screw of Mirror
+    2300180: Screw of Wheel1
+    2300182: Screw of Wheel2
+    2300184: Screw of Wheel3
+    2300186: Screw of Wheel4
+    2300188: text
+    2300190: Wheel1
+    2300192: Wheel2
+    2300194: Wheel3
+    2300196: Wheel4
+    3300000: Boom
+    3300002: Cabin In
+    3300004: Cabin In2
+    3300006: Cabin_Out2
+    3300008: Cabine Out
+    3300010: Engine Covers
+    3300012: Engine Covers2
+    3300014: Glass
+    3300016: HP_Details1
+    3300018: HP_Details2
+    3300020: HP_wheel2
+    3300022: Hydraulics spline1
+    3300024: Hydraulics spline2
+    3300026: Hydraulics003
+    3300028: Hydraulics1
+    3300030: Joystick
+    3300032: Lower Frame004
+    3300034: Lower Frame1
+    3300036: Lower Frame2
+    3300038: Object026
+    3300040: Object031
+    3300042: Object033
+    3300044: Object034
+    3300046: Object035
+    3300048: Object036
+    3300050: Object039
+    3300052: Object040
+    3300054: Object041
+    3300056: Object042
+    3300058: Object043
+    3300060: Object044
+    3300062: Object045
+    3300064: Object046
+    3300066: Object047
+    3300068: Object049
+    3300070: Object050
+    3300072: Object051
+    3300074: Object052
+    3300076: Object053
+    3300078: Object054
+    3300080: Object055
+    3300082: Object056
+    3300084: Object057
+    3300086: Object058
+    3300088: Object059
+    3300090: Object060
+    3300092: Object061
+    3300094: Object062
+    3300096: Object063
+    3300098: Object064
+    3300100: Object065
+    3300102: Object066
+    3300104: Object067
+    3300106: Object068
+    3300108: Object069
+    3300110: Object070
+    3300112: Object071
+    3300114: Object072
+    3300116: Object073
+    3300118: Object074
+    3300120: Object075
+    3300122: Object076
+    3300124: Object077
+    3300126: Object078
+    3300128: Object079
+    3300130: Object080
+    3300132: Object081
+    3300134: Object082
+    3300136: Object083
+    3300138: Object084
+    3300140: Object085
+    3300142: Object086
+    3300144: Object087
+    3300146: Object088
+    3300148: Object089
+    3300150: Object090
+    3300152: Object091
+    3300154: Object092
+    3300156: Object093
+    3300158: Object094
+    3300160: Object095
+    3300162: Object096
+    3300164: Operator place
+    3300166: Operator place3
+    3300168: Plane005
+    3300170: Plane006
+    3300172: Screw of Cabin007
+    3300174: Screw of Frame
+    3300176: Screw of Frame2
+    3300178: Screw of Mirror
+    3300180: Screw of Wheel1
+    3300182: Screw of Wheel2
+    3300184: Screw of Wheel3
+    3300186: Screw of Wheel4
+    3300188: text
+    3300190: Wheel1
+    3300192: Wheel2
+    3300194: Wheel3
+    3300196: Wheel4
+    4300000: text
+    4300002: Lower Frame1
+    4300004: Cabine Out
+    4300006: Boom
+    4300008: Screw of Wheel1
+    4300010: Engine Covers
+    4300012: Screw of Wheel3
+    4300014: Cabin In
+    4300016: Joystick
+    4300018: Operator place
+    4300020: Hydraulics1
+    4300022: Screw of Frame
+    4300024: Screw of Mirror
+    4300026: Glass
+    4300028: HP_Details1
+    4300030: Wheel1
+    4300032: Wheel2
+    4300034: Wheel3
+    4300036: Wheel4
+    4300038: Screw of Wheel2
+    4300040: Screw of Wheel4
+    4300042: Plane005
+    4300044: Plane006
+    4300046: Hydraulics spline1
+    4300048: Hydraulics spline2
+    4300050: Screw of Cabin007
+    4300052: Object026
+    4300054: Cabin In2
+    4300056: Cabin_Out2
+    4300058: HP_Details2
+    4300060: Object031
+    4300062: Engine Covers2
+    4300064: Hydraulics003
+    4300066: Lower Frame2
+    4300068: Screw of Frame2
+    4300070: Lower Frame004
+    4300072: HP_wheel2
+    4300074: Operator place3
+    4300076: Object033
+    4300078: Object034
+    4300080: Object035
+    4300082: Object036
+    4300084: Object039
+    4300086: Object040
+    4300088: Object041
+    4300090: Object042
+    4300092: Object043
+    4300094: Object044
+    4300096: Object045
+    4300098: Object046
+    4300100: Object047
+    4300102: Object049
+    4300104: Object050
+    4300106: Object051
+    4300108: Object052
+    4300110: Object053
+    4300112: Object054
+    4300114: Object055
+    4300116: Object056
+    4300118: Object057
+    4300120: Object058
+    4300122: Object059
+    4300124: Object060
+    4300126: Object061
+    4300128: Object062
+    4300130: Object063
+    4300132: Object064
+    4300134: Object065
+    4300136: Object066
+    4300138: Object067
+    4300140: Object068
+    4300142: Object069
+    4300144: Object070
+    4300146: Object071
+    4300148: Object072
+    4300150: Object073
+    4300152: Object074
+    4300154: Object075
+    4300156: Object076
+    4300158: Object077
+    4300160: Object078
+    4300162: Object079
+    4300164: Object080
+    4300166: Object081
+    4300168: Object082
+    4300170: Object083
+    4300172: Object084
+    4300174: Object085
+    4300176: Object086
+    4300178: Object087
+    4300180: Object088
+    4300182: Object089
+    4300184: Object090
+    4300186: Object091
+    4300188: Object092
+    4300190: Object093
+    4300192: Object094
+    4300194: Object095
+    4300196: Object096
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1.4
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,193 @@
+fileFormatVersion: 2
+guid: 96f0e1806323a4c4e9ec896e09ddfc42
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Bar1
+    100002: //RootNode
+    100004: Mesh1
+    100006: Mesh10
+    100008: Mesh11
+    100010: Mesh12
+    100012: Mesh13
+    100014: Mesh14
+    100016: Mesh2
+    100018: Mesh3
+    100020: Mesh4
+    100022: Mesh5
+    100024: Mesh6
+    100026: Mesh7
+    100028: Mesh8
+    100030: Mesh9
+    100032: Rod1
+    100034: Rod2
+    100036: Rod3
+    100038: Rod4
+    100040: Rod5
+    100042: Rod6
+    100044: Rod7
+    100046: Side_Rail1
+    100048: Side_Rail2
+    100050: Support1
+    100052: Support2
+    100054: Wall_Bracket1
+    100056: Wall_Bracket2
+    400000: Bar1
+    400002: //RootNode
+    400004: Mesh1
+    400006: Mesh10
+    400008: Mesh11
+    400010: Mesh12
+    400012: Mesh13
+    400014: Mesh14
+    400016: Mesh2
+    400018: Mesh3
+    400020: Mesh4
+    400022: Mesh5
+    400024: Mesh6
+    400026: Mesh7
+    400028: Mesh8
+    400030: Mesh9
+    400032: Rod1
+    400034: Rod2
+    400036: Rod3
+    400038: Rod4
+    400040: Rod5
+    400042: Rod6
+    400044: Rod7
+    400046: Side_Rail1
+    400048: Side_Rail2
+    400050: Support1
+    400052: Support2
+    400054: Wall_Bracket1
+    400056: Wall_Bracket2
+    2300000: Mesh1
+    2300002: Mesh10
+    2300004: Mesh11
+    2300006: Mesh12
+    2300008: Mesh13
+    2300010: Mesh14
+    2300012: Mesh2
+    2300014: Mesh3
+    2300016: Mesh4
+    2300018: Mesh5
+    2300020: Mesh6
+    2300022: Mesh7
+    2300024: Mesh8
+    2300026: Mesh9
+    3300000: Mesh1
+    3300002: Mesh10
+    3300004: Mesh11
+    3300006: Mesh12
+    3300008: Mesh13
+    3300010: Mesh14
+    3300012: Mesh2
+    3300014: Mesh3
+    3300016: Mesh4
+    3300018: Mesh5
+    3300020: Mesh6
+    3300022: Mesh7
+    3300024: Mesh8
+    3300026: Mesh9
+    4300000: Mesh1
+    4300002: Mesh2
+    4300004: Mesh3
+    4300006: Mesh4
+    4300008: Mesh5
+    4300010: Mesh6
+    4300012: Mesh7
+    4300014: Mesh8
+    4300016: Mesh9
+    4300018: Mesh10
+    4300020: Mesh11
+    4300022: Mesh12
+    4300024: Mesh13
+    4300026: Mesh14
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FrontColor
+    second: {fileID: 2100000, guid: 91923f295494dd14096225962363896b, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 15
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

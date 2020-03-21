@@ -1,0 +1,185 @@
+fileFormatVersion: 2
+guid: a7a441e082c352340b96b1d1c930230e
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Air_Conditioner
+    100002: Door
+    100004: Frame
+    100006: //RootNode
+    100008: Roof
+    100010: Tin_wall and Roof
+    100012: Window_2
+    100014: Windows_1
+    100016: Windows_3
+    400000: Air_Conditioner
+    400002: Door
+    400004: Frame
+    400006: //RootNode
+    400008: Roof
+    400010: Tin_wall and Roof
+    400012: Window_2
+    400014: Windows_1
+    400016: Windows_3
+    2300000: Air_Conditioner
+    2300002: Door
+    2300004: Frame
+    2300006: Roof
+    2300008: Tin_wall and Roof
+    2300010: Window_2
+    2300012: Windows_1
+    2300014: Windows_3
+    3300000: Air_Conditioner
+    3300002: Door
+    3300004: Frame
+    3300006: Roof
+    3300008: Tin_wall and Roof
+    3300010: Window_2
+    3300012: Windows_1
+    3300014: Windows_3
+    4300000: Door
+    4300002: Frame
+    4300004: Window_2
+    4300006: Tin_wall and Roof
+    4300008: Windows_3
+    4300010: Windows_1
+    4300012: Air_Conditioner
+    4300014: Roof
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black
+    second: {fileID: 2100000, guid: 6bec3d26fc9386e44ad761ea1b1d60f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black_Metal
+    second: {fileID: 2100000, guid: 4280a3e68aef53549a39f40e80aa6bc7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brown_Metal
+    second: {fileID: 2100000, guid: 1e8f00fd31975474ca145572bfc04080, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fan
+    second: {fileID: 2100000, guid: 30d582d3ea22c83409e6f4ff6c1fa578, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass
+    second: {fileID: 2100000, guid: 3bf36742c13cd5447ac730c16121e881, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grating
+    second: {fileID: 2100000, guid: b0fd90a3edb418b40bc097fc27149d1b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lebel
+    second: {fileID: 2100000, guid: 305c7db3a99390e43b677345b5da2e07, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal_Chrome
+    second: {fileID: 2100000, guid: 25be54cc6ae278143a8a3ec3953e43d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SECURITY
+    second: {fileID: 2100000, guid: 150c75488cbd485498262c82867dc247, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Silver_Metal
+    second: {fileID: 2100000, guid: ca60cbe320cb5404591d364dd4363e08, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: White_Metal
+    second: {fileID: 2100000, guid: ca60cbe320cb5404591d364dd4363e08, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

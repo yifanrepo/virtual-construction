@@ -1,0 +1,616 @@
+fileFormatVersion: 2
+guid: d7fe01996bd432e47bcff014fc92c8df
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: back_butterfly001
+    100002: bolt
+    100004: Construction_Worker_boot001
+    100006: Construction_Worker_boot_met001
+    100008: Construction_Worker_button004
+    100010: Construction_Worker_button005
+    100012: Construction_Worker_button006
+    100014: Construction_Worker_button007
+    100016: Construction_Worker_C_Eye_L001
+    100018: Construction_Worker_C_Eye_R001
+    100020: Construction_Worker_cord001
+    100022: Construction_Worker_Eye_L001
+    100024: Construction_Worker_Eye_R001
+    100026: Construction_Worker_gum_lower001
+    100028: Construction_Worker_gum_upper001
+    100030: Construction_Worker_hand001
+    100032: Construction_Worker_head001
+    100034: Construction_Worker_P_pant001
+    100036: Construction_Worker_pant001
+    100038: Construction_Worker_plastik001
+    100040: Construction_Worker_sole001
+    100042: Construction_Worker_T_sh001
+    100044: Construction_Worker_teeth_lower001
+    100046: Construction_Worker_teeth_upper001
+    100048: Construction_Worker_tongue001
+    100050: coupling_mechanism001
+    100052: Electric_Cement_Mixer
+    100054: foam_rubber001
+    100056: hand_concrete_mixe_wire
+    100058: hand_concrete_mixer1
+    100060: hand_concrete_mixer2
+    100062: Helmet001
+    100064: leather001
+    100066: logo_helmet001
+    100068: logo_regulator001
+    100070: mixer
+    100072: plastic_arc001
+    100074: protracted_arc001
+    100076: regulator001
+    100078: //RootNode
+    400000: back_butterfly001
+    400002: bolt
+    400004: Construction_Worker_boot001
+    400006: Construction_Worker_boot_met001
+    400008: Construction_Worker_button004
+    400010: Construction_Worker_button005
+    400012: Construction_Worker_button006
+    400014: Construction_Worker_button007
+    400016: Construction_Worker_C_Eye_L001
+    400018: Construction_Worker_C_Eye_R001
+    400020: Construction_Worker_cord001
+    400022: Construction_Worker_Eye_L001
+    400024: Construction_Worker_Eye_R001
+    400026: Construction_Worker_gum_lower001
+    400028: Construction_Worker_gum_upper001
+    400030: Construction_Worker_hand001
+    400032: Construction_Worker_head001
+    400034: Construction_Worker_P_pant001
+    400036: Construction_Worker_pant001
+    400038: Construction_Worker_plastik001
+    400040: Construction_Worker_sole001
+    400042: Construction_Worker_T_sh001
+    400044: Construction_Worker_teeth_lower001
+    400046: Construction_Worker_teeth_upper001
+    400048: Construction_Worker_tongue001
+    400050: coupling_mechanism001
+    400052: Electric_Cement_Mixer
+    400054: foam_rubber001
+    400056: hand_concrete_mixe_wire
+    400058: hand_concrete_mixer1
+    400060: hand_concrete_mixer2
+    400062: Helmet001
+    400064: leather001
+    400066: logo_helmet001
+    400068: logo_regulator001
+    400070: mixer
+    400072: plastic_arc001
+    400074: protracted_arc001
+    400076: regulator001
+    400078: //RootNode
+    2300000: back_butterfly001
+    2300002: bolt
+    2300004: Construction_Worker_boot001
+    2300006: Construction_Worker_boot_met001
+    2300008: Construction_Worker_button004
+    2300010: Construction_Worker_button005
+    2300012: Construction_Worker_button006
+    2300014: Construction_Worker_button007
+    2300016: Construction_Worker_C_Eye_L001
+    2300018: Construction_Worker_C_Eye_R001
+    2300020: Construction_Worker_cord001
+    2300022: Construction_Worker_Eye_L001
+    2300024: Construction_Worker_Eye_R001
+    2300026: Construction_Worker_gum_lower001
+    2300028: Construction_Worker_gum_upper001
+    2300030: Construction_Worker_hand001
+    2300032: Construction_Worker_head001
+    2300034: Construction_Worker_P_pant001
+    2300036: Construction_Worker_pant001
+    2300038: Construction_Worker_plastik001
+    2300040: Construction_Worker_sole001
+    2300042: Construction_Worker_T_sh001
+    2300044: Construction_Worker_teeth_lower001
+    2300046: Construction_Worker_teeth_upper001
+    2300048: Construction_Worker_tongue001
+    2300050: coupling_mechanism001
+    2300052: foam_rubber001
+    2300054: hand_concrete_mixe_wire
+    2300056: hand_concrete_mixer1
+    2300058: hand_concrete_mixer2
+    2300060: Helmet001
+    2300062: leather001
+    2300064: logo_helmet001
+    2300066: logo_regulator001
+    2300068: mixer
+    2300070: plastic_arc001
+    2300072: protracted_arc001
+    2300074: regulator001
+    3300000: back_butterfly001
+    3300002: bolt
+    3300004: Construction_Worker_boot001
+    3300006: Construction_Worker_boot_met001
+    3300008: Construction_Worker_button004
+    3300010: Construction_Worker_button005
+    3300012: Construction_Worker_button006
+    3300014: Construction_Worker_button007
+    3300016: Construction_Worker_C_Eye_L001
+    3300018: Construction_Worker_C_Eye_R001
+    3300020: Construction_Worker_cord001
+    3300022: Construction_Worker_Eye_L001
+    3300024: Construction_Worker_Eye_R001
+    3300026: Construction_Worker_gum_lower001
+    3300028: Construction_Worker_gum_upper001
+    3300030: Construction_Worker_hand001
+    3300032: Construction_Worker_head001
+    3300034: Construction_Worker_P_pant001
+    3300036: Construction_Worker_pant001
+    3300038: Construction_Worker_plastik001
+    3300040: Construction_Worker_sole001
+    3300042: Construction_Worker_T_sh001
+    3300044: Construction_Worker_teeth_lower001
+    3300046: Construction_Worker_teeth_upper001
+    3300048: Construction_Worker_tongue001
+    3300050: coupling_mechanism001
+    3300052: foam_rubber001
+    3300054: hand_concrete_mixe_wire
+    3300056: hand_concrete_mixer1
+    3300058: hand_concrete_mixer2
+    3300060: Helmet001
+    3300062: leather001
+    3300064: logo_helmet001
+    3300066: logo_regulator001
+    3300068: mixer
+    3300070: plastic_arc001
+    3300072: protracted_arc001
+    3300074: regulator001
+    4300000: hand_concrete_mixe_wire
+    4300002: mixer
+    4300004: hand_concrete_mixer1
+    4300006: bolt
+    4300008: hand_concrete_mixer2
+    4300010: Construction_Worker_cord001
+    4300012: Construction_Worker_button004
+    4300014: Construction_Worker_button005
+    4300016: Construction_Worker_button006
+    4300018: Construction_Worker_button007
+    4300020: Construction_Worker_boot_met001
+    4300022: Construction_Worker_sole001
+    4300024: Construction_Worker_plastik001
+    4300026: Construction_Worker_hand001
+    4300028: Construction_Worker_head001
+    4300030: Construction_Worker_C_Eye_L001
+    4300032: Construction_Worker_Eye_L001
+    4300034: Construction_Worker_Eye_R001
+    4300036: Construction_Worker_C_Eye_R001
+    4300038: Construction_Worker_teeth_lower001
+    4300040: Construction_Worker_gum_lower001
+    4300042: Construction_Worker_tongue001
+    4300044: Construction_Worker_teeth_upper001
+    4300046: Construction_Worker_gum_upper001
+    4300048: Construction_Worker_pant001
+    4300050: Construction_Worker_boot001
+    4300052: Construction_Worker_P_pant001
+    4300054: Construction_Worker_T_sh001
+    4300056: logo_regulator001
+    4300058: logo_helmet001
+    4300060: leather001
+    4300062: protracted_arc001
+    4300064: regulator001
+    4300066: coupling_mechanism001
+    4300068: back_butterfly001
+    4300070: foam_rubber001
+    4300072: plastic_arc001
+    4300074: Helmet001
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Leather_bt
+    second: {fileID: 2100000, guid: f2e1f03bf22896f47b15e84063fa8bf4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plastic
+    second: {fileID: 2100000, guid: f2e1f03bf22896f47b15e84063fa8bf4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rubber_sole
+    second: {fileID: 2100000, guid: f2e1f03bf22896f47b15e84063fa8bf4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stainless
+    second: {fileID: 2100000, guid: 4df1f3ffc80d3da49872d3717f4f3615, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stainless_
+    second: {fileID: 2100000, guid: f2e1f03bf22896f47b15e84063fa8bf4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _head
+    second: {fileID: 2100000, guid: 1c41439e0850420469111381cfdcdd71, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bolt
+    second: {fileID: 2100000, guid: e626559dba9eb6c419f99e2bbc38c9e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: elastic
+    second: {fileID: 2100000, guid: 303f0161ac266ff4aa675e8c1b54b42f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eye_ins
+    second: {fileID: 2100000, guid: e5ac29e6f6d98684db36ccdc3c654b69, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eye_out
+    second: {fileID: 2100000, guid: 9bc52f9cd742bc74bbd9bfd8a499cb2a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fabric_p_b
+    second: {fileID: 2100000, guid: 88885ca186de5b64b989888fa6ceaaf9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fabric_t
+    second: {fileID: 2100000, guid: f2e1f03bf22896f47b15e84063fa8bf4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gray_plastic
+    second: {fileID: 2100000, guid: 204d961424e645940a78d27c98b228d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hand
+    second: {fileID: 2100000, guid: 788d6e1c97ce9704e818a558c6852292, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hand_concrete_mixer
+    second: {fileID: 2100000, guid: 0496f76aca10fa849ab4ec466fe79532, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: leather
+    second: {fileID: 2100000, guid: 9709c82c4375ab94bae3ddbdf78447ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: logo_helmet
+    second: {fileID: 2100000, guid: 5f0419b1fcf72874caedf8949089868c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: logo_regulator
+    second: {fileID: 2100000, guid: 7a51390bd84bddd43bd0424a53b34de9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mixer
+    second: {fileID: 2100000, guid: 85de147bd59e849489f88f1f7232abc8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: red
+    second: {fileID: 2100000, guid: a58dd616ef9177343aa831c68dec588c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: teeth
+    second: {fileID: 2100000, guid: 1c41439e0850420469111381cfdcdd71, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tongue
+    second: {fileID: 2100000, guid: 1c41439e0850420469111381cfdcdd71, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: white
+    second: {fileID: 2100000, guid: 913d19b530e0a984fb45a3a590d3a733, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: "Invalid Avatar Rig Configuration. Missing or invalid transform:\n\tRequired
+      human bone 'LeftUpperLeg' not found\n"
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 2
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.02
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: Electric_Cement_Mixer
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hand_concrete_mixer2
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Worker_with_Electric_Cement_Mixer(Clone)
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: back_butterfly001
+      parentName: Worker_with_Electric_Cement_Mixer(Clone)
+      position: {x: -0.0006803536, y: -0.21567528, z: 3.3826232}
+      rotation: {x: 0.6777937, y: 0.20149015, z: 0.67779005, w: 0.2014897}
+      scale: {x: 1.0000014, y: 1.000001, z: 0.99999976}
+    - name: Construction_Worker_boot001
+      parentName: Worker_with_Electric_Cement_Mixer(Clone)
+      position: {x: -0.019951588, y: 0.24613012, z: -0.00014907836}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Construction_Worker_boot_met001
+      parentName: Worker_with_Electric_Cement_Mixer(Clone)
+      position: {x: -0.019951385, y: 0.2461301, z: -0.00014907836}
+      rotation: {x: 0, y: 0, z: 0.0000019073486, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Construction_Worker_button004
+      parentName: Worker_with_Electric_Cement_Mixer(Clone)
+      position: {x: 0.3611316, y: 0.33321732, z: 2.1378138}
+      rotation: {x: 0.064899735, y: -0.025020463, z: 0.6436637, w: 0.76214117}
+      scale: {x: 1.0000002, y: 1, z: 0.9999999}
+    - name: Construction_Worker_button005
+      parentName: Worker_with_Electric_Cement_Mixer(Clone)
+      position: {x: 0.38066676, y: 0.35050657, z: 1.981967}
+      rotation: {x: 0.05351426, y: 0.06384184, z: 0.74648315, w: 0.6601692}
+      scale: {x: 1.0000001, y: 0.9999998, z: 1.0000002}
+    - name: Construction_Worker_button006
+      parentName: Worker_with_Electric_Cement_Mixer(Clone)
+      position: {x: -0.35526574, y: 0.31463462, z: 2.1328206}
+      rotation: {x: 0.095081285, y: 0.02586481, z: -0.4948525, w: 0.8633722}
+      scale: {x: 1.0000004, y: 1.0000004, z: 1.0000002}
+    - name: Construction_Worker_button007
+      parentName: Worker_with_Electric_Cement_Mixer(Clone)
+      position: {x: -0.3862148, y: 0.3512173, z: 1.9860227}
+      rotation: {x: 0.037463237, y: -0.00435703, z: -0.6016785, w: 0.79784745}
+      scale: {x: 1.0000001, y: 1.0000004, z: 1.0000002}
+    - name: Construction_Worker_C_Eye_L001
+      parentName: Worker_with_Electric_Cement_Mixer(Clone)
+      position: {x: 0.099059045, y: 0.045898207, z: 0.2769342}
+      rotation: {x: 0.0034472118, y: -0.017366258, z: -0.023347603, w: 0.99957067}
+      scale: {x: 0.9999998, y: 1.0000006, z: 0.99999994}
+    - name: Construction_Worker_Eye_L001
+      parentName: Construction_Worker_C_Eye_L001
+      position: {x: -0.000000009536743, y: 0.000000019073486, z: 0}
+      rotation: {x: 6.98492e-10, y: 0.0000000018626449, z: 7.1304374e-10, w: 1}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1.0000001}
+    - name: Construction_Worker_C_Eye_R001
+      parentName: Worker_with_Electric_Cement_Mixer(Clone)
+      position: {x: -0.011216774, y: 0.23766254, z: 3.187221}
+      rotation: {x: 0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Construction_Worker_cord001
+      parentName: Worker_with_Electric_Cement_Mixer(Clone)
+      position: {x: -0.01995145, y: 0.2461301, z: -0.00014907836}
+      rotation: {x: 0, y: 0, z: 0.0000014305115, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Construction_Worker_Eye_R001
+      parentName: Worker_with_Electric_Cement_Mixer(Clone)
+      position: {x: -0.011216774, y: 0.23766254, z: 3.1236768}
+      rotation: {x: 0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Construction_Worker_gum_lower001
+      parentName: Worker_with_Electric_Cement_Mixer(Clone)
+      position: {x: -0.008933649, y: 0.1215464, z: 3.3791223}
+      rotation: {x: 0.7127793, y: 0.0000010230506, z: 0.0000013399673, w: 0.7013884}
+      scale: {x: 0.9999998, y: 0.9999999, z: 1.0000002}
+    - name: Construction_Worker_gum_upper001
+      parentName: Worker_with_Electric_Cement_Mixer(Clone)
+      position: {x: -0.008933649, y: 0.1215464, z: 3.3791223}
+      rotation: {x: 0.7127793, y: 0.0000010230506, z: 0.0000013399673, w: 0.7013884}
+      scale: {x: 0.9999998, y: 0.9999999, z: 1.0000002}
+    - name: Construction_Worker_hand001
+      parentName: Worker_with_Electric_Cement_Mixer(Clone)
+      position: {x: -0.012539405, y: 0.23766267, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Construction_Worker_head001
+      parentName: Worker_with_Electric_Cement_Mixer(Clone)
+      position: {x: -0.006172096, y: 0.25449008, z: 3.367691}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Construction_Worker_P_pant001
+      parentName: Worker_with_Electric_Cement_Mixer(Clone)
+      position: {x: -0.0060745617, y: 0.24003816, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Construction_Worker_pant001
+      parentName: Worker_with_Electric_Cement_Mixer(Clone)
+      position: {x: -0.0060745617, y: 0.24003816, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Construction_Worker_plastik001
+      parentName: Worker_with_Electric_Cement_Mixer(Clone)
+      position: {x: -0.012539405, y: 0.23766267, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Construction_Worker_sole001
+      parentName: Worker_with_Electric_Cement_Mixer(Clone)
+      position: {x: -0.019951588, y: 0.24613012, z: -0.00014907836}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Construction_Worker_T_sh001
+      parentName: Worker_with_Electric_Cement_Mixer(Clone)
+      position: {x: -0.019951588, y: 0.24613012, z: -0.00014907836}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Construction_Worker_teeth_lower001
+      parentName: Worker_with_Electric_Cement_Mixer(Clone)
+      position: {x: -0.02865294, y: 0.38397598, z: 3.4301562}
+      rotation: {x: 0.7071069, y: 0.0000010115247, z: 0.0000013486989, w: 0.7071067}
+      scale: {x: 0.9999999, y: 0.99999994, z: 0.99999994}
+    - name: Construction_Worker_teeth_upper001
+      parentName: Worker_with_Electric_Cement_Mixer(Clone)
+      position: {x: -0.02865294, y: 0.38397598, z: 3.4301562}
+      rotation: {x: 0.7071069, y: 0.0000010115247, z: 0.0000013486989, w: 0.7071067}
+      scale: {x: 0.9999999, y: 0.99999994, z: 0.99999994}
+    - name: Construction_Worker_tongue001
+      parentName: Worker_with_Electric_Cement_Mixer(Clone)
+      position: {x: -0.033732824, y: 0.27293685, z: 3.1591234}
+      rotation: {x: 0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: coupling_mechanism001
+      parentName: Worker_with_Electric_Cement_Mixer(Clone)
+      position: {x: -0.0010250306, y: -0.20792893, z: 3.3872924}
+      rotation: {x: 0.6777937, y: 0.20149015, z: 0.67779005, w: 0.2014897}
+      scale: {x: 1.0000014, y: 1.000001, z: 0.99999976}
+    - name: Electric_Cement_Mixer
+      parentName: Worker_with_Electric_Cement_Mixer(Clone)
+      position: {x: -0.012256788, y: -0.51584256, z: 1.0076377}
+      rotation: {x: 0.6720374, y: 0, z: -0, w: 0.74051726}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bolt
+      parentName: Electric_Cement_Mixer
+      position: {x: 0.000000095367426, y: 0.6613948, z: -0.009822464}
+      rotation: {x: -0.00000024475216, y: 0.721156, z: -0.69277275, w: 0.00000015246769}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hand_concrete_mixe_wire
+      parentName: Electric_Cement_Mixer
+      position: {x: 0.19238158, y: 0.26706886, z: -0.12244587}
+      rotation: {x: 0, y: 0, z: 0.7071068, w: 0.7071067}
+      scale: {x: 0.99999994, y: 1, z: 0.99999994}
+    - name: hand_concrete_mixer1
+      parentName: Electric_Cement_Mixer
+      position: {x: 0.0000001335144, y: 0.680269, z: -0.005210953}
+      rotation: {x: -0.00000013097564, y: 0.69277287, z: 0.7211558, w: -0.0000002653984}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: hand_concrete_mixer2
+      parentName: Electric_Cement_Mixer
+      position: {x: 0.08619756, y: 0.7141272, z: -0.042142257}
+      rotation: {x: -0.00000013097564, y: 0.69277287, z: 0.7211558, w: -0.0000002653984}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: mixer
+      parentName: Electric_Cement_Mixer
+      position: {x: 0.00000017166137, y: 0.16548546, z: -0.02751892}
+      rotation: {x: -0.48986453, y: 0.48986396, z: 0.5099346, w: 0.50993407}
+      scale: {x: 0.99999994, y: 1, z: 0.99999994}
+    - name: foam_rubber001
+      parentName: Worker_with_Electric_Cement_Mixer(Clone)
+      position: {x: -0.00055082556, y: -0.21814789, z: 3.38114}
+      rotation: {x: 0.6777937, y: 0.20149015, z: 0.67779005, w: 0.2014897}
+      scale: {x: 1.0000014, y: 1.000001, z: 0.99999976}
+    - name: Helmet001
+      parentName: Worker_with_Electric_Cement_Mixer(Clone)
+      position: {x: -0.0036100268, y: -0.50530434, z: 3.3279443}
+      rotation: {x: 0.6777937, y: 0.20149015, z: 0.67779005, w: 0.2014897}
+      scale: {x: 1.0000014, y: 1.000001, z: 0.99999976}
+    - name: leather001
+      parentName: Worker_with_Electric_Cement_Mixer(Clone)
+      position: {x: -0.0034393508, y: -0.52252823, z: 3.1915894}
+      rotation: {x: 0.6777937, y: 0.20149015, z: 0.67779005, w: 0.2014897}
+      scale: {x: 1.0000014, y: 1.000001, z: 0.99999976}
+    - name: logo_helmet001
+      parentName: Worker_with_Electric_Cement_Mixer(Clone)
+      position: {x: -0.0036096005, y: -0.2761818, z: 3.4755487}
+      rotation: {x: 0.6777937, y: 0.20149015, z: 0.67779005, w: 0.2014897}
+      scale: {x: 1.0000014, y: 1.000001, z: 0.99999976}
+    - name: logo_regulator001
+      parentName: Worker_with_Electric_Cement_Mixer(Clone)
+      position: {x: -0.0025109123, y: -0.19903854, z: 3.3874004}
+      rotation: {x: 0.6777937, y: 0.20149015, z: 0.67779005, w: 0.2014897}
+      scale: {x: 1.0000014, y: 1.000001, z: 0.99999976}
+    - name: plastic_arc001
+      parentName: Worker_with_Electric_Cement_Mixer(Clone)
+      position: {x: -0.0037335323, y: -0.43283752, z: 3.2592027}
+      rotation: {x: 0.6777937, y: 0.20149015, z: 0.67779005, w: 0.2014897}
+      scale: {x: 1.0000014, y: 1.000001, z: 0.99999976}
+    - name: protracted_arc001
+      parentName: Worker_with_Electric_Cement_Mixer(Clone)
+      position: {x: 0.09981647, y: -0.258825, z: 3.3678882}
+      rotation: {x: 0.6777937, y: 0.20149015, z: 0.67779005, w: 0.2014897}
+      scale: {x: 1.0000014, y: 1.000001, z: 0.99999976}
+    - name: regulator001
+      parentName: Worker_with_Electric_Cement_Mixer(Clone)
+      position: {x: -0.00038763523, y: -0.19742484, z: 3.3924365}
+      rotation: {x: 0.6777937, y: 0.20149015, z: 0.67779005, w: 0.2014897}
+      scale: {x: 1.0000014, y: 1.000001, z: 0.99999976}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

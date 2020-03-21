@@ -1,0 +1,242 @@
+fileFormatVersion: 2
+guid: ebbe1efb379038f4a89d8c1771ec0ecc
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: elements
+    100002: "Extrusion_contr\xF4l\xE9e"
+    100004: "Extrusion_contr\xF4l\xE9e_0"
+    100006: "Extrusion_contr\xF4l\xE9e_0_2"
+    100008: "Extrusion_contr\xF4l\xE9e_1"
+    100010: "Extrusion_contr\xF4l\xE9e_10"
+    100012: "Extrusion_contr\xF4l\xE9e_10_2"
+    100014: "Extrusion_contr\xF4l\xE9e_11"
+    100016: "Extrusion_contr\xF4l\xE9e_11_2"
+    100018: "Extrusion_contr\xF4l\xE9e_12"
+    100020: "Extrusion_contr\xF4l\xE9e_12_2"
+    100022: "Extrusion_contr\xF4l\xE9e_1_2"
+    100024: "Extrusion_contr\xF4l\xE9e_2"
+    100026: "Extrusion_contr\xF4l\xE9e_2_2"
+    100028: "Extrusion_contr\xF4l\xE9e_3"
+    100030: "Extrusion_contr\xF4l\xE9e_3_2"
+    100032: "Extrusion_contr\xF4l\xE9e_4"
+    100034: "Extrusion_contr\xF4l\xE9e_4_2"
+    100036: "Extrusion_contr\xF4l\xE9e_5"
+    100038: "Extrusion_contr\xF4l\xE9e_5_2"
+    100040: "Extrusion_contr\xF4l\xE9e_6"
+    100042: "Extrusion_contr\xF4l\xE9e_6_2"
+    100044: "Extrusion_contr\xF4l\xE9e_7"
+    100046: "Extrusion_contr\xF4l\xE9e_7_2"
+    100048: "Extrusion_contr\xF4l\xE9e_8"
+    100050: "Extrusion_contr\xF4l\xE9e_8_2"
+    100052: "Extrusion_contr\xF4l\xE9e_9"
+    100054: "Extrusion_contr\xF4l\xE9e_9_2"
+    100056: inside_wire
+    100058: outside_wire
+    100060: stick
+    100062: //RootNode
+    400000: elements
+    400002: "Extrusion_contr\xF4l\xE9e"
+    400004: "Extrusion_contr\xF4l\xE9e_0"
+    400006: "Extrusion_contr\xF4l\xE9e_0_2"
+    400008: "Extrusion_contr\xF4l\xE9e_1"
+    400010: "Extrusion_contr\xF4l\xE9e_10"
+    400012: "Extrusion_contr\xF4l\xE9e_10_2"
+    400014: "Extrusion_contr\xF4l\xE9e_11"
+    400016: "Extrusion_contr\xF4l\xE9e_11_2"
+    400018: "Extrusion_contr\xF4l\xE9e_12"
+    400020: "Extrusion_contr\xF4l\xE9e_12_2"
+    400022: "Extrusion_contr\xF4l\xE9e_1_2"
+    400024: "Extrusion_contr\xF4l\xE9e_2"
+    400026: "Extrusion_contr\xF4l\xE9e_2_2"
+    400028: "Extrusion_contr\xF4l\xE9e_3"
+    400030: "Extrusion_contr\xF4l\xE9e_3_2"
+    400032: "Extrusion_contr\xF4l\xE9e_4"
+    400034: "Extrusion_contr\xF4l\xE9e_4_2"
+    400036: "Extrusion_contr\xF4l\xE9e_5"
+    400038: "Extrusion_contr\xF4l\xE9e_5_2"
+    400040: "Extrusion_contr\xF4l\xE9e_6"
+    400042: "Extrusion_contr\xF4l\xE9e_6_2"
+    400044: "Extrusion_contr\xF4l\xE9e_7"
+    400046: "Extrusion_contr\xF4l\xE9e_7_2"
+    400048: "Extrusion_contr\xF4l\xE9e_8"
+    400050: "Extrusion_contr\xF4l\xE9e_8_2"
+    400052: "Extrusion_contr\xF4l\xE9e_9"
+    400054: "Extrusion_contr\xF4l\xE9e_9_2"
+    400056: inside_wire
+    400058: outside_wire
+    400060: stick
+    400062: //RootNode
+    2100000: Mat
+    2100002: Metal - Tantalium
+    2100004: Metal - Stainless Steel Polished
+    2300000: "Extrusion_contr\xF4l\xE9e"
+    2300002: "Extrusion_contr\xF4l\xE9e_0"
+    2300004: "Extrusion_contr\xF4l\xE9e_0_2"
+    2300006: "Extrusion_contr\xF4l\xE9e_1"
+    2300008: "Extrusion_contr\xF4l\xE9e_10"
+    2300010: "Extrusion_contr\xF4l\xE9e_10_2"
+    2300012: "Extrusion_contr\xF4l\xE9e_11"
+    2300014: "Extrusion_contr\xF4l\xE9e_11_2"
+    2300016: "Extrusion_contr\xF4l\xE9e_12"
+    2300018: "Extrusion_contr\xF4l\xE9e_12_2"
+    2300020: "Extrusion_contr\xF4l\xE9e_1_2"
+    2300022: "Extrusion_contr\xF4l\xE9e_2"
+    2300024: "Extrusion_contr\xF4l\xE9e_2_2"
+    2300026: "Extrusion_contr\xF4l\xE9e_3"
+    2300028: "Extrusion_contr\xF4l\xE9e_3_2"
+    2300030: "Extrusion_contr\xF4l\xE9e_4"
+    2300032: "Extrusion_contr\xF4l\xE9e_4_2"
+    2300034: "Extrusion_contr\xF4l\xE9e_5"
+    2300036: "Extrusion_contr\xF4l\xE9e_5_2"
+    2300038: "Extrusion_contr\xF4l\xE9e_6"
+    2300040: "Extrusion_contr\xF4l\xE9e_6_2"
+    2300042: "Extrusion_contr\xF4l\xE9e_7"
+    2300044: "Extrusion_contr\xF4l\xE9e_7_2"
+    2300046: "Extrusion_contr\xF4l\xE9e_8"
+    2300048: "Extrusion_contr\xF4l\xE9e_8_2"
+    2300050: "Extrusion_contr\xF4l\xE9e_9"
+    2300052: "Extrusion_contr\xF4l\xE9e_9_2"
+    2300054: inside_wire
+    2300056: stick
+    3300000: "Extrusion_contr\xF4l\xE9e"
+    3300002: "Extrusion_contr\xF4l\xE9e_0"
+    3300004: "Extrusion_contr\xF4l\xE9e_0_2"
+    3300006: "Extrusion_contr\xF4l\xE9e_1"
+    3300008: "Extrusion_contr\xF4l\xE9e_10"
+    3300010: "Extrusion_contr\xF4l\xE9e_10_2"
+    3300012: "Extrusion_contr\xF4l\xE9e_11"
+    3300014: "Extrusion_contr\xF4l\xE9e_11_2"
+    3300016: "Extrusion_contr\xF4l\xE9e_12"
+    3300018: "Extrusion_contr\xF4l\xE9e_12_2"
+    3300020: "Extrusion_contr\xF4l\xE9e_1_2"
+    3300022: "Extrusion_contr\xF4l\xE9e_2"
+    3300024: "Extrusion_contr\xF4l\xE9e_2_2"
+    3300026: "Extrusion_contr\xF4l\xE9e_3"
+    3300028: "Extrusion_contr\xF4l\xE9e_3_2"
+    3300030: "Extrusion_contr\xF4l\xE9e_4"
+    3300032: "Extrusion_contr\xF4l\xE9e_4_2"
+    3300034: "Extrusion_contr\xF4l\xE9e_5"
+    3300036: "Extrusion_contr\xF4l\xE9e_5_2"
+    3300038: "Extrusion_contr\xF4l\xE9e_6"
+    3300040: "Extrusion_contr\xF4l\xE9e_6_2"
+    3300042: "Extrusion_contr\xF4l\xE9e_7"
+    3300044: "Extrusion_contr\xF4l\xE9e_7_2"
+    3300046: "Extrusion_contr\xF4l\xE9e_8"
+    3300048: "Extrusion_contr\xF4l\xE9e_8_2"
+    3300050: "Extrusion_contr\xF4l\xE9e_9"
+    3300052: "Extrusion_contr\xF4l\xE9e_9_2"
+    3300054: inside_wire
+    3300056: stick
+    4300000: stick
+    4300002: inside_wire
+    4300004: "Extrusion_contr\xF4l\xE9e_0"
+    4300006: "Extrusion_contr\xF4l\xE9e_1"
+    4300008: "Extrusion_contr\xF4l\xE9e_2"
+    4300010: "Extrusion_contr\xF4l\xE9e_3"
+    4300012: "Extrusion_contr\xF4l\xE9e_4"
+    4300014: "Extrusion_contr\xF4l\xE9e_5"
+    4300016: "Extrusion_contr\xF4l\xE9e_6"
+    4300018: "Extrusion_contr\xF4l\xE9e_7"
+    4300020: "Extrusion_contr\xF4l\xE9e_8"
+    4300022: "Extrusion_contr\xF4l\xE9e_9"
+    4300024: "Extrusion_contr\xF4l\xE9e_10"
+    4300026: "Extrusion_contr\xF4l\xE9e_11"
+    4300028: "Extrusion_contr\xF4l\xE9e_12"
+    4300030: "Extrusion_contr\xF4l\xE9e"
+    4300032: "Extrusion_contr\xF4l\xE9e_0_2"
+    4300034: "Extrusion_contr\xF4l\xE9e_1_2"
+    4300036: "Extrusion_contr\xF4l\xE9e_2_2"
+    4300038: "Extrusion_contr\xF4l\xE9e_3_2"
+    4300040: "Extrusion_contr\xF4l\xE9e_4_2"
+    4300042: "Extrusion_contr\xF4l\xE9e_5_2"
+    4300044: "Extrusion_contr\xF4l\xE9e_6_2"
+    4300046: "Extrusion_contr\xF4l\xE9e_7_2"
+    4300048: "Extrusion_contr\xF4l\xE9e_8_2"
+    4300050: "Extrusion_contr\xF4l\xE9e_9_2"
+    4300052: "Extrusion_contr\xF4l\xE9e_10_2"
+    4300054: "Extrusion_contr\xF4l\xE9e_11_2"
+    4300056: "Extrusion_contr\xF4l\xE9e_12_2"
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.06
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
